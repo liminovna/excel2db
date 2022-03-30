@@ -21,4 +21,4 @@ Once a new database has been created you can exit the interactive python session
 ```
 >>>exit()
 ```
-Unfortunately i have not yet come up a solution to terminate the session from within the python script. Might think about it later 
+Unfortunately i have not yet come up with a solution to terminate the session from within the python script. Might think about it later 
