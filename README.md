@@ -9,6 +9,7 @@ The module ```0sql.py``` is supposed to be executed from the terminal:
 
 File system:
 
+```
 root_dir
 
 |_0sql.py
@@ -18,3 +19,4 @@ root_dir
   |_*.xlsx
   
   |_*.xls
+```
