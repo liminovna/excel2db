@@ -11,12 +11,8 @@ File system:
 
 ```
 root_dir
-
 |_0sql.py
-
 |_databases
-  
   |_*.xlsx
-  
   |_*.xls
 ```
