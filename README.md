@@ -16,3 +16,9 @@ root_dir
   |_*.xlsx
   |_*.xls
 ```
+
+Once a new database has been created you can exit the interactive python session:
+```
+>>>exit()
+```
+Unfortunately i have not yet come up a solution to terminate the session from within the python script. Might think about it later 
